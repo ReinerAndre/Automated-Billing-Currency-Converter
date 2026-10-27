@@ -1,4 +1,4 @@
-# ⚙️ Otimização de Faturamento Multimoeda e Cálculo de IVA (ERP para BI)
+# ⚙️ Otimização de Faturamento Multimoeda e Cálculo de IVA (ERP)
 
 ## 📌 O Desafio de Negócio
 Em operações transnacionais, a consolidação financeira exige a unificação da moeda padrão no ERP. Contudo, o faturamento oficial ocorre muitas vezes em uma segunda plataforma e em moedas variadas (ex: Dólar). Quando o sistema de origem operava na moeda local e o cliente exigia faturamento em Dólar, a equipe perdia tempo realizando conversões cambiais manuais e recalculando valores unitários na Nota Fiscal para incluir o IVA. Isso gerava morosidade, atrito na operação e potenciais inconsistências de integração com o sistema oficial (Prodato).
